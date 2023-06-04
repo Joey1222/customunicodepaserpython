@@ -2,10 +2,5 @@
   "[python]": {
     "editor.defaultFormatter": "ms-python.autopep8"
   },
-  "python.formatting.provider": "none",
-
-  "[git-commit]": {
-    "editor.rulers": [72],
-    "workbench.editor.restoreViewState": false
-  }
+  "python.formatting.provider": "none"
 }
