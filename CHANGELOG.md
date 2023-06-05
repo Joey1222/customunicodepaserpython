@@ -27,4 +27,4 @@ and this project adheres to [Semantic Versioning].
 [semantic versioning]: https://semver.org/spec/v2.0.0.html
 
 <!-- Versions -->
-[1.0.0]: https://github.com/Author/Repository/releases/tag/v0.0.1
+[1.0.0]: https://github.com/Joey1222/customunicodepaserpython/releases/tag/v1.0.0
